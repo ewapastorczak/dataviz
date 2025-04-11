@@ -1,4 +1,4 @@
 # dataviz
-Data visualization codes for teaching
-Credit to Paweł Krakowiak, ...
+Data visualization codes purely for teaching purposes
+Credit to Paweł Krakowiak, Chris Bruehl.
 
